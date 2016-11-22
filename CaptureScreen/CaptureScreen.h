@@ -37,7 +37,7 @@ static int cyBegin = (cyScreen - nHeight) / 2;
 static WCHAR* G3 = L"BÀI TẬP G3 - NHÓM 6";
 static WCHAR* SV1 = L"1412060 + Huỳnh Minh Chương";
 static WCHAR* SV2 = L"1412453 + Phạm Minh Sang";
-static WCHAR* GUIDE = L"Nhấn giữ Ctrl và Click vào cửa sổ cần chụp";
+static WCHAR* GUIDE = L"Nhấn giữ Print screen và Click vào cửa sổ cần chụp";
 
 LRESULT OnCreate(HWND hWnd)
 {
